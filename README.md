@@ -91,7 +91,7 @@ Post consistent progress updates on LinkedIn
 📫 Connect
 
 
-LinkedIn: linkedin.com/in/jesusmorfegutierrez
+LinkedIn: https://www.linkedin.com/in/jesus-morfe-gutierrez-073a32267/
 
 
 This repo is a work in progress and will be updated as I complete coursework, labs, and projects.
