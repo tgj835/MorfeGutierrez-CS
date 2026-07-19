@@ -28,27 +28,70 @@ Exploring which cybersecurity track fits best (SOC/blue team, GRC, or offensive 
 
 ✅ Progress Tracker
 
-Education
+
+
+   Education
 
 
  Certificate of Proficiency — ISS&N Trade (Worcester Technical High School)
  IT Fundamentals Certificate
  Python coursework (FSU)
  Java coursework (FSU)
- Studying for Security+ Cert
+ Studying for Security+ Certification
 
 
-Practical Skills
+
+
+   Practical Skills
 
 
  Help desk / IT ticket support (high school)
  Hardware repair using SOPs (Chromebook repair center)
  First TryHackMe room completed
+ First CTF writeup published
 
 
-Home Lab / Projects
+
+
+   Home Lab / Projects
 
 
  Set up a basic home lab (VM + Kali Linux)
  First security-related script or tool
  First network traffic analysis project
+
+
+
+
+ 🛠️ Skills So Far
+
+Python 
+Java 
+IT Help Desk Support 
+Hardware Troubleshooting & Repair SOP-based Workflows
+
+(This list will grow as I add networking, security tools, and platforms.)
+
+
+
+
+ 🎯 Goals
+
+
+Complete my first TryHackMe learning path
+Publish my first CTF writeup
+Start studying for CompTIA Security+ or the Google Cybersecurity Certificate
+Build a basic home lab for hands-on practice
+Post consistent progress updates on LinkedIn
+
+
+
+
+
+📫 Connect
+
+
+LinkedIn: linkedin.com/in/jesusmorfegutierrez
+
+
+This repo is a work in progress and will be updated as I complete coursework, labs, and projects.
